@@ -7,7 +7,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.Stack;
 
-class det{
+class code{
 	
 		@SuppressWarnings({ "rawtypes", "unchecked", "resource", "unused" })
 public void priorityqueue()
